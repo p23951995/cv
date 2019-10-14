@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<body>
+<p> this is a paragraph </p>
+<br>
+<a href= "http://www,w3school.com">this is a link</a>
+<hr>
+<img src="14c.jpg" alt="not found image">
+<hr>
+<ul>
+    <li>unordered</li>
+    <li>unspecified</li>
+</ul>
+<hr>
+<ol>
+    <li>ordered</li>
+    <li>specified</li>
+</ol>
+<hr>
+<p style="color:red">this is a paragraph</p>
+<em> my name is <i> praveta sahu </i></em>
+</html>
